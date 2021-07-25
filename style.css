@@ -10,15 +10,20 @@ h1{
 }
 
 img{
-    height: 320px;
+    height: 220px;
     border: 4px dashed forestgreen;
 }
 
 span{
-    margin: 15px; 
+    margin: 10px; 
+    display: inline-block;
 }
 
 div{
-    padding: 20px;
+    margin-top: 20px;
     text-align: center;
+}
+
+h5{
+    width:inherit;
 }
